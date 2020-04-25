@@ -36,6 +36,8 @@ In order to make labelling clearer, a legend must be included in the openCV fram
 
     1. https://pjreddie.com/media/files/yolov3.weights
     2. https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+    
+    *Store the downloaded yolov3.weights file in the yolo-coco folder
 
 ### Other Details
 Language Written In:    Python 3.7
