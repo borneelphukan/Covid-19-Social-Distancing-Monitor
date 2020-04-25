@@ -27,10 +27,10 @@ In order to make labelling clearer, a legend must be included in the openCV fram
 
 ### Tools Used
 
-   1. YOLOv3 Model: For the purpose of detecting the human figures in the input video, we are using a pre-built ‘You Only Look Once (YOLO) algorithm. This is a regression based computer vision algorithm which predict objects in an image frame. The algorithm is trained in the coco dataset.
-   2. Darknet: It is a neural network framework which is used for implementation of the YOLO model. 
-   3. OpenCV: For the purpose of viewing the video frames, creating bounding boxes and measuring the distance between the center of the bounding boxes, OpenCV is being used. It has multiple features which are bound to come handy in the project development.
-   4. VLC Media Player: For playing the output video.
+   1. **YOLOv3 Model:** For the purpose of detecting the human figures in the input video, we are using a pre-built ‘You Only Look Once (YOLO) algorithm. This is a regression based computer vision algorithm which predict objects in an image frame. The algorithm is trained in the coco dataset.
+   2. **Darknet:** It is a neural network framework which is used for implementation of the YOLO model. 
+   3. **OpenCV:** For the purpose of viewing the video frames, creating bounding boxes and measuring the distance between the center of the bounding boxes, OpenCV is being used. It has multiple features which are bound to come handy in the project development.
+   4. **VLC Media Player:** For playing the output video.
 
 
 
