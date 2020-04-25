@@ -24,7 +24,7 @@ In order to make labelling clearer, a legend must be included in the openCV fram
 ### Flow Chart
 
 ![Block Diagram](Block Diagram.png)
-Format: ![Block Diagram](url)
+![Block Diagram]()
 
 ### Tools Used
 
