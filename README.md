@@ -41,8 +41,6 @@ Format: ![Block Diagram](url)
 
 
 ### Other Details
-Language Written In
-Python 3.7
-Environment (IDE)
-Anaconda IDE (Jupyter Notebook/Spyder), PyCharm CE, VSCode
+Language Written In | Python 3.7
+Environment (IDE) | Anaconda IDE (Jupyter Notebook/Spyder), PyCharm CE, VSCode
 
