@@ -1,8 +1,11 @@
 # COVID-19 SOCIAL DISTANCE MONITOR (PROJECT IDEATION)
 
 *BORNEEL BIKASH PHUKAN*
+
 *Roll no: 1728207*
+
 *Computer Science and System Engineering*
+
 *CSSE-3*
 
 ### Introduction
@@ -41,7 +44,6 @@ Format: ![Block Diagram](url)
 
 
 ### Other Details
-------------------- | -------------
-Language Written In | Python 3.7
-Environment (IDE) | Anaconda IDE (Jupyter Notebook/Spyder), PyCharm CE, VSCode
+Language Written In:    Python 3.7
+Environment (IDE):  Anaconda IDE (Jupyter Notebook/Spyder), PyCharm CE, VSCode
 
