@@ -10,10 +10,10 @@ In this project I am making use of the YOLOv3 object detection model to detect h
 
 In order to use the pre-trained YOLOv3 model, the weights, configuration and label names must be imported using the darknet framework. Next work is to define the distance formula function which will decide the distance between the persons in frame. Initially before proceeding forward, the confidence value and threshold values must be initialized so that it can determine the distance condition. 
 
-Here, three conditions are being used:
-        1. If the couple (2 persons in frame) is too close (High Risk)
-        2. If the couple is at a certain distance but still close enough (Medium Risk)
-        3. Safe distance (Safe Distance)
+Here, two conditions are being used:
+
+        1. If two bounding boxes are less than threshold.
+        2. If two bounding boxes are more than the threshold
 
 For every condition, the bounding box surrounding the person in frame must change colour as green, orange or red indicating the condition.
 
