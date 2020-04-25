@@ -23,8 +23,7 @@ In order to make labelling clearer, a legend must be included in the openCV fram
 
 ### Flow Chart
 
-![Block Diagram](Block Diagram.png)
-![Block Diagram]()
+![Block Diagram](https://github.com/borneelphukan/Covid-19-Social-Distancing-Monitor/blob/master/Block%20Diagram.png.png)
 
 ### Tools Used
 
