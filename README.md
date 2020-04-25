@@ -39,6 +39,7 @@ In order to make labelling clearer, a legend must be included in the openCV fram
 
 ### Other Details
 Language Written In:    Python 3.7
+
 Environment (IDE):  Anaconda IDE (Jupyter Notebook/Spyder), PyCharm CE, VSCode
 
 ### Credits and References:
