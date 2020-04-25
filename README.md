@@ -36,6 +36,7 @@ While forming the bounding box, the distance between the center of two bounding 
     2. https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
     
 *Store the downloaded yolov3.weights file in the yolo-coco folder*
+*Store the test video (size 1280 x 720) in a new folder named video*
 
 ### Other Details
 Language Written In:    Python 3.7
