@@ -32,7 +32,7 @@ In order to make labelling clearer, a legend must be included in the openCV fram
    3. **OpenCV:** For the purpose of viewing the video frames, creating bounding boxes and measuring the distance between the center of the bounding boxes, OpenCV is being used. It has multiple features which are bound to come handy in the project development.
    4. **VLC Media Player:** For playing the output video.
 
-### Downloads to be done
+### Downloads required
 
     1. https://pjreddie.com/media/files/yolov3.weights
     2. https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
@@ -41,3 +41,5 @@ In order to make labelling clearer, a legend must be included in the openCV fram
 Language Written In:    Python 3.7
 Environment (IDE):  Anaconda IDE (Jupyter Notebook/Spyder), PyCharm CE, VSCode
 
+### Credits and References:
+I would like to thank Mr. Adrian Rosenbrock of www.pyimagesearch.com for your efforts in simplifying Computer Vision so that even an amateur developer like me can grasp the basic contents lying behind a brand new technologies.
