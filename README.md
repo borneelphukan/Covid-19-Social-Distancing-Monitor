@@ -1,13 +1,5 @@
 # COVID-19 SOCIAL DISTANCE MONITOR (PROJECT IDEATION)
 
-*BORNEEL BIKASH PHUKAN*
-
-*Roll no: 1728207*
-
-*Computer Science and System Engineering*
-
-*CSSE-3*
-
 ### Introduction
 
 Since the onset of COVID-19 that had grasp the entire population of Earth, the governments all around the world has been trying to come up with different measures to prevent it’s drastic spread. The World Health Organization has urged governments to practice Social Distancing norms to keep the spread of the virus in check. However, even after the spread of the virus is slowed down, and governments all across the globe lift up the countrywide lockdowns, it is necessary that the behaviour of the general public is kept in check. Social distancing still need to be practiced until the virus is completely eradicated. Therefore, this project aims to facilitate the process of checking social distancing practice by the authorities so that the general public remains safe from the deadly virus and also the economy keeps running. This algorithm can be fitted into any surveillance camera to analyse the behaviour of public and provide the insights for crowd control.
