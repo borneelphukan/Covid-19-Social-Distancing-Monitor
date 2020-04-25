@@ -17,9 +17,7 @@ Here, two conditions are being used:
 
 For every condition, the bounding box surrounding the person in frame must change colour as green, orange or red indicating the condition.
 
-While forming the bounding box, the distance between the center of two bounding boxes must be determined. This is because the measurement of the distance between two person is done from this center point. Following the same threshold pattern, if the bounding boxes (or persons) are too near, the line showing the distances must be yellow in color (warning distance) and the line showing the “too close” distance must be red in color (danger distance). 
-
-In order to make labelling clearer, a legend must be included in the openCV frame to make understanding clearer. The video frames are later combined to form the output video.
+While forming the bounding box, the distance between the center of two bounding boxes must be determined. This is because the measurement of the distance between two person is done from this center point. Following the same threshold pattern, if the bounding boxes (or persons) are too near, the bounding boxes must turn red signifying the person is not following social distancing. Whereas if the bounding box is green, it signifies that the person is in safe distance and thereby following the social distancing norm.
 
 ### Flow Chart
 
